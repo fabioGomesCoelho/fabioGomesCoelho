@@ -12,11 +12,11 @@ Desenvolvendo projetos e aprendendo programação
 - C++
 - JavaScript
 
-## 📂 Projetos
+## Projetos
 
 Em breve, vou adicionar meus principais projetos aqui.
 
-## 📚 Atualmente estudando
+## Atualmente estudando
 
 - Git e GitHub
 - Desenvolvimento Web
